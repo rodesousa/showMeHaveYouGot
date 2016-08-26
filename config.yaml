@@ -1,0 +1,6 @@
+---
+
+server: localhost
+port : 3112
+file:
+    test: /var/log/syslog
